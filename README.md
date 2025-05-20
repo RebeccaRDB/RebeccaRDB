@@ -2,8 +2,9 @@
 
 **`Pentester`**
 
-Sou Rebecca, estudante de Cyber Security and Ethical Hacking na FIAP, com foco em desenvolvimento de habilidades técnicas voltadas à segurança ofensiva (pentesting). Tenho me especializado em Python, C#, segurança web, além de aprofundar meus conhecimentos em ambientes Linux, especialmente com Kali Linux.
-Atualmente, estou em formação para atuar como pentester, desenvolvendo projetos e soluções voltadas à identificação e exploração de vulnerabilidades, com ênfase em práticas e metodologias utilizadas por profissionais de red team. Busco sempre alinhar ética, conhecimento técnico e prática contínua para evoluir na área de cibersegurança ofensiva.
+I'm Rebecca, a Cyber Security and Ethical Hacking student at FIAP, specializing in developing technical skills for offensive security (pentesting). My focus has been on Python, C#, and web security, alongside deepening my knowledge of Linux environments, particularly Kali Linux.
+
+Currently, I'm training to become a pentester, working on projects and solutions aimed at identifying and exploiting vulnerabilities. I emphasize practices and methodologies used by red team professionals. My goal is to continuously align ethics, technical knowledge, and practical application to advance in offensive cybersecurity.
 
 ---
 ### languages ​​and technologies: 
